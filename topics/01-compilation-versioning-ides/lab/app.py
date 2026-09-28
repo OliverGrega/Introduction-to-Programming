@@ -2,7 +2,7 @@
 def main():
     print("Zadaj meno!")
     name = input()
-    print(f"Ahoj, {name}")
+    print(f"Dobre jitro, pane {name}")
 
     print("Zadaj vek!")
     vek = input()
