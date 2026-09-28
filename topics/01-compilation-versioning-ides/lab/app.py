@@ -1,9 +1,17 @@
 # hello.py
 # tu je chybka
 
+import sys
+
 def main():
     print("Zadaj meno!")
     name = input()
+
+    if not name:
+        print("Invalid name")
+        sys.exit()
+
+
     print("Chces formalny pozdrav? [Y/N]")
     choice = input()
     if(choice == 'N'):
