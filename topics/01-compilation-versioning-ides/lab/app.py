@@ -6,7 +6,7 @@ def main():
 
     print("Zadaj vek!")
     vek = input()
-    print(f"Mas {name} rokov")
+    print(f"Mas {vek} rokov")
 
 
 if __name__ == "__main__":
