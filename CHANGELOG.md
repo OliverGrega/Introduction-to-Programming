@@ -2,4 +2,4 @@
 
 Na spustenie programu staci spusit program vajo
 
-Zmeneny uvitaci text
+Vies si vybrat medzi pozdravmi
