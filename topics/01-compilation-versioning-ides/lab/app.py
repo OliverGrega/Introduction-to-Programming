@@ -23,6 +23,11 @@ def main():
 
     print("Zadaj vek!")
     vek = input()
+
+    if not vek:
+        print("Invalid age")
+        sys.exit()
+
     print(f"Mas {vek} rokov")
 
 
