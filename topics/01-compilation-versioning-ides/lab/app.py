@@ -11,7 +11,7 @@ def main():
         print("Invalid name")
         sys.exit()
 
-
+    #checkne ci bude pozdrav formal
     print("Chces formalny pozdrav? [Y/N]")
     choice = input()
     if(choice == 'N'):
