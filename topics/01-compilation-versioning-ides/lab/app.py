@@ -22,8 +22,10 @@ def main():
         print("TAK TOHLE FAKT NE CHLAPE")
 
     print("Zadaj vek!")
+    #Nacita vek
     vek = input()
 
+    #skontroluje ci je input veku validny
     if not vek:
         print("Invalid age")
         sys.exit()
