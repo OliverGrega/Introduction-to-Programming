@@ -1,4 +1,6 @@
 # hello.py
+# tu je chybka
+
 def main():
     print("Zadaj meno!")
     name = input()
