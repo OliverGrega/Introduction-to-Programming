@@ -11,7 +11,7 @@ def main():
         print("Invalid name")
         sys.exit()
 
-
+    #checkne ci bude pozdrav formal
     print("Chces formalny pozdrav? [Y/N]")
     choice = input()
     if(choice == 'N'):
@@ -22,7 +22,14 @@ def main():
         print("TAK TOHLE FAKT NE CHLAPE")
 
     print("Zadaj vek!")
+    #Nacita vek
     vek = input()
+
+    #skontroluje ci je input veku validny
+    if not vek:
+        print("Invalid age")
+        sys.exit()
+
     print(f"Mas {vek} rokov")
 
 
