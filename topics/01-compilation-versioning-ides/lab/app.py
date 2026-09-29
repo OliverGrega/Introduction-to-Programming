@@ -19,7 +19,20 @@ def main():
     elif(choice == 'Y'):
         print(f"Dobre jitro, pane {name}")
     else:
+<<<<<<< HEAD
         print("TAK TOHLE FAKT NE CHLAPE")
+=======
+        sys.exit()
+
+
+    print("Chces pozdrav v uppercasu? [Y/N]")
+    #nacita ci ma byt pozdrav uppercasu
+    upper = input()
+    if(upper == 'Y'):
+        output = output.upper()
+
+    print(output)
+>>>>>>> 1729658 (Uppercase option docs)
 
     print("Zadaj vek!")
     #Nacita vek
