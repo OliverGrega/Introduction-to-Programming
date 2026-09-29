@@ -19,9 +19,6 @@ def main():
     elif(choice == 'Y'):
         print(f"Dobre jitro, pane {name}")
     else:
-<<<<<<< HEAD
-        print("TAK TOHLE FAKT NE CHLAPE")
-=======
         sys.exit()
 
 
@@ -32,7 +29,6 @@ def main():
         output = output.upper()
 
     print(output)
->>>>>>> 1729658 (Uppercase option docs)
 
     print("Zadaj vek!")
     #Nacita vek
