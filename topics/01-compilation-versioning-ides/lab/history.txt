@@ -1,0 +1,71 @@
+* d5b03d4 (HEAD -> master, tag: v0.2.0, origin/master, origin/HEAD) changelog update
+* 1ad8cdc Revert "naschval chyba"
+* 87abee8 naschval chyba
+* f093f3d Uppercase option docs
+| * 1729658 (experiment/uppercase) Uppercase option docs
+| * b5139f2 Uppercase greeting option
+|/
+*   bf5eac3 Merge pull request #5 from OliverGrega/feature/age-validation
+|\
+| * ae47f37 (origin/feature/age-validation) documented some other thing
+| * e49eaba documented age verif
+| * f95a348 added age verification
+| * 5fcf42e edited changelog
+|/
+*   8054a40 Merge pull request #4 from OliverGrega/feature/input-validation
+|\
+| * c1b7516 (origin/feature/input-validation) fixed merge conflict
+|/
+*   33d9f87 Merge pull request #3 from OliverGrega/hotfix/typo
+|\
+| * f061783 (origin/hotfix/typo) Fixed typo or smth
+|/
+* d5b03d4 (HEAD -> master, tag: v0.2.0, origin/master, origin/HEAD) changelog update
+* 1ad8cdc Revert "naschval chyba"
+* 87abee8 naschval chyba
+* f093f3d Uppercase option docs
+| * 1729658 (experiment/uppercase) Uppercase option docs
+| * b5139f2 Uppercase greeting option
+|/
+*   bf5eac3 Merge pull request #5 from OliverGrega/feature/age-validation
+|\
+| * ae47f37 (origin/feature/age-validation) documented some other thing
+| * e49eaba documented age verif
+| * f95a348 added age verification
+| * 5fcf42e edited changelog
+|/
+*   8054a40 Merge pull request #4 from OliverGrega/feature/input-validation
+|\
+| * c1b7516 (origin/feature/input-validation) fixed merge conflict
+|/
+*   33d9f87 Merge pull request #3 from OliverGrega/hotfix/typo
+|\
+| * f061783 (origin/hotfix/typo) Fixed typo or smth
+|/
+*   669aedf Merge pull request #2 from OliverGrega/feature/greeting-style
+|\
+| *   cad136f (origin/feature/greeting-style) Added choice between styles
+| |\
+| |/
+|/|
+* |   8263168 Merge pull request #1 from OliverGrega/feature/formal-greeting
+|\ \
+| * | 187a379 (origin/feature/formal-greeting) Noted last change in the changelog
+| * | 92dd8ec Changed greeting to something more formal
+|/ /
+| * df590a1 Edited changelog according to last commit
+| * cae767d Changed greeting text
+|/
+* e9133ff fixed showing username instead of age
+* b712607 (origin/feature/user-name) navod na spustenie app pridany do changelogu
+* 5d8ca42 pridan citanie veku
+* 1406e24 Pridan vypisanie mena
+* 6962bb2 Pridan zadanie mena do app
+* 5954b88 pridan changelog
+* ab4e08e app vytvoren
+* 6145c6e topic 02 improved
+* f2ac286 minor fix in assignment
+* 2e13ae0 git basic flow modified
+* c714a0b minor changes everywhere
+* f412173 Dev (#3)
+* 7d66452 Initial commit
